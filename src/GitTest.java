@@ -13,11 +13,11 @@ public class GitTest
     public void tired()
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Do you have any coffee? yes or no?");
+        System.out.println("Do you have any cocaine? yes or no?");
         String coffee = sc.nextLine();
         if(coffee.equals("no"))
         {
-            System.out.println("Go make some coffee!");
+            System.out.println("Go make some cocaine!");
         }
         else
         {
